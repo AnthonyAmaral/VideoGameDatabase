@@ -1,0 +1,31 @@
+
+My Video Game Collection:
+
+Number of Games: 6
+
+Total Price of Collection: $329.99
+
+Average Price of Collection: $55
+
+Games List:
+
+Title		Console		Price		Complete	Items Missing
+
+PokemonSnap	N64		$9.99		NO		Box
+
+
+Earthbound	SNES		$200		NO		Box
+
+
+Metal_Gear2	PS2		$10		YES		Complete
+
+
+Fire_Emblem	GBA		$35		NO		Box
+
+
+Xenoblade	WII		$70		YES		Complete
+
+
+Super_Mario	NES		$5		NO		Box
+
+
